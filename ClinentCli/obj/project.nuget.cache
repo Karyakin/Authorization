@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUORN05g7ojWrJ8V634Yc8Jn/8SFVcutVBeg0pR/MKbtk4/X5qdBQI7WRnAFFObsYypsILXyhU54UoetbMM8OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dima\\Projects\\Authorization\\ClinentCli\\ClinentCli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dima\\.nuget\\packages\\identitymodel\\5.2.0\\identitymodel.5.2.0.nupkg.sha512",
+    "C:\\Users\\Dima\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
